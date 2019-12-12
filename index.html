@@ -1,6 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!--LINK JQUERY and JS-->
+
+<script type="text/javascript" src="js/addedJS.js"></script>
+<script type="text/javascript">
+	var wasCheckedList = [
+		{wasChecked: false},
+		{wasChecked: false},
+		{wasChecked: false},
+		{wasChecked: false},
+		{wasChecked: false},
+	];
+</script>
+<script>function printChecked(){
+var formElems = document.getElementById("checkbox_form");
+for(var i = 0; i<formElems.elements.length; i++){
+	var elem = formElems.elements[i];
+		if(elem.checked){
+			var x = '<b id="' + elem.value + '" style="color:black"><li><input type="checkbox" name="Interests" value=\"' + elem.value + '\"checked>' + elem.value + '</li></b>';
+
+			if(!wasCheckedList[i]['wasChecked']){
+			document.getElementById("Interests_form").
+				innerHTML += x;
+			}
+			wasCheckedList[i]['wasChecked'] = true;
+		}else if(!(elem.checked) && wasCheckedList[i]['wasChecked']){
+			
+		document.getElementById("Interests_form").removeChild(document.getElementById(elem.value));
+			wasCheckedList[i]['wasChecked'] = false;
+	}
+}
+}</script>
+<script type="text/javascript">function printSearched(){
+	var searchInput = document.getElementById("search_input")
+	if(searchInput != ""){
+		var x = '<b id="' + searchInput + '" style="color:black"><li><input type="checkbox" name="Interests" value=\"' + searchInput + '\"checked>' + searchInput + '</li></b>';
+	}
+}	
+</script>
+
+</script>
 <title>DiscounterPro - For all of your money saving needs</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,20 +61,29 @@
 <div class="menu">
 
 	<!-- Search -->
-	<div class="menu_search">
-		<form action="#" id="menu_search_form" class="menu_search_form">
-			<input type="text" class="search_input" placeholder="Search Item" required="required">
-			<button class="menu_search_button"><img src="images/search.png" alt=""></button>
-		</form>
-	</div>
+		<div class="header_search">
+				<form action="#" id="menu_search_form">
+					<input type="text" class="search_input" placeholder="Search Item" required="required">
+					<button class="header_search_button" onchange="printSearched()"><img src="images/search2.png" alt=""></button>
+				</form>
+			</div>
 	<!-- Navigation -->
 	<div class="menu_nav">
 		<ul>
-			<li><a href="#">Dank</a></li>
-			<li><a href="#">Men</a></li>
-			<li><a href="#">Kids</a></li>
-			<li><a href="#">Home Deco</a></li>
-			<li><a href="#">Contact</a></li>
+			<form action="" id="checkbox_form" onchange="printChecked()">
+			<b><h4 style="color:black">Common search items</h4></b>
+			<b style="color:black"><li><input type="checkbox" name="Interests" value="Books">Books</li></b>
+			<b style="color:black"><li><input type="checkbox" name="Interests" value="Tech">Tech</li></b>
+			<b style="color:black"><li><input type="checkbox" name="Interests" value="Sports">Sports</li></b>
+			<b style="color:black"><li><input type="checkbox" name="Interests" value="Fitness">Fitness</li></b>
+			<b style="color:black"><li><input type="checkbox" name="Interests" value="Food">Food</li></b><br>
+			</form>
+		</ul>
+		<b><h4 style="color:black">Selected Interests</h4></b>
+		<ul>
+			<form action="#" id="Interests_form">
+				
+			</form>
 		</ul>
 	</div>
 	<!-- Contact Info -->
