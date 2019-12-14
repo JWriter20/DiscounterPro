@@ -2,146 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaa319b-2cdb-435d-98b6-3893268e8743" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/.idea/libraries/org_jsoup_jsoup_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/WebScraping.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/dataOnItems.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/AutoClicker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/AutoOpenPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/ItemData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/MorePractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/TakeInSearchedInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/TypeSearchIntoAmazon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WebScraping/src/WebScraping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../addedJS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_1_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_2_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/box_3_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/boxes_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/boxes_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/cart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/cart_2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/cart_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/cart_item_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/heart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/heart_2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/home_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/home_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/home_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/icon_1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/icon_2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/icon_3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/logo_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/logo_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/newlogo_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/phone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/product_image_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/search2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/view_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/view_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../images/view_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/addedJS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/category.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/checkout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../js/product.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/Isotope/fitcolumns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/Isotope/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/owl.theme.default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/OwlCarousel2-2.2.1/owl.video.play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/easing/easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/flexslider/flexslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/flexslider/fonts/flexslider-icon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/flexslider/fonts/flexslider-icon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/flexslider/jquery.flexslider-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/greensock/ScrollToPlugin.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/greensock/TimelineMax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/greensock/TweenMax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/greensock/animation.gsap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/parallax-js-master/parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/progressbar/progressbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../plugins/scrollmagic/ScrollMagic.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/bootstrap-4.1.2/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/bootstrap-4.1.2/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/bootstrap-4.1.2/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/cart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/cart_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/category.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/category_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/checkout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/checkout_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/main_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/product.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/product_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../styles/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -230,12 +91,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="222" />
+          <entry key="java" value="816" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="222" />
+          <entry key="JAVA" value="816" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -254,11 +115,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-541">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="997">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -266,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dataOnItems.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6780">
@@ -365,11 +226,11 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576354189840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576354917602" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -428,7 +289,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -531,20 +392,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataOnItems.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6780">
           <caret line="452" column="21" selection-start-line="452" selection-start-column="21" selection-end-line="452" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="997">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
