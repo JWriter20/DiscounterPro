@@ -55,9 +55,9 @@ Instructions:
 	5. Set the Build folder name to build and the source Folder name to src
 
 Successful run for reference: 
-![Image could not load](https://raw.githubusercontent.com/JWriter20/DiscounterPro/master/20timeprojectWeb/WebsiteRun.png)
+![Image could not load](WebsiteRun.png)
 
-![Image could not load](https://raw.githubusercontent.com/JWriter20/DiscounterPro/master/20timeprojectWeb/JavaRun.png)
+![Image could not load](JavaRun.png)
 
 
 Remaining bugs/ unimplemented features: 
