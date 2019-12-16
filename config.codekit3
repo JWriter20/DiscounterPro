@@ -53,6 +53,17 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/ServerRun.png": {
+		"ft": 32768,
+		"iS": 103404,
+		"oA": 0,
+		"oAP": "/build/ServerRun.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/src/category.html": {
 		"cB": 0,
 		"ft": 8192,

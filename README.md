@@ -59,6 +59,9 @@ Successful run for reference:
 
 ![Image could not load](JavaRun.png)
 
+![Image could not load](ServerRun.png)
+
+
 
 Remaining bugs/ unimplemented features: 
 
