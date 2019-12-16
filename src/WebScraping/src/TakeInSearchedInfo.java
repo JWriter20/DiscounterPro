@@ -15,8 +15,8 @@ upon finding it, it will properly format the info then write it to a json file.
 Date: 12/14/19
 */
 
-public class TakeInSearchedInfo {
-    public static void main(String[] args) throws IOException {
+public class TakeInSearchedInfo{
+    public static void main(String[] args) throws IOException{
         String results = "{\"itemList\":[";
         Scanner s = new Scanner(System.in);
         System.out.println("Type in what you want to search for: ");
@@ -40,7 +40,7 @@ public class TakeInSearchedInfo {
 
             lastPageNum = (page.select(lastPage).text());
             Elements boxSelectorElements = page.select(boxSelector); //selector for each item box
-            for (int j = 3; j < boxSelectorElements.size(); j++) {
+            for (int j = 3; j < boxSelectorElements.size(); j++){
                 if (!(boxSelectorElements.get(j).select(oldPriceSelector).text().equals(""))) {
                     String picture = boxSelectorElements.get(j).select(pictureSelector).attr("src");
                     String title = boxSelectorElements.get(j).select(titleSelector).text();
@@ -51,6 +51,7 @@ public class TakeInSearchedInfo {
                     if(title.contains("\"")){ //edge case handling
                         title = title.replaceAll("\"", "\\\\\"");
                     }
+
                     //add final results
                     results += "{\"picture\": " + "\"" + picture + "\",\n";
                     results += "\"title\": " + "\"" + title + "\",\n";
@@ -62,9 +63,12 @@ public class TakeInSearchedInfo {
 
 
                 }
+
             }
+
             i++;
         }
+
         //remove last comma for proper json formatting
         results = results.substring(0,results.length()-2);
         results += "\n]}";
