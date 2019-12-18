@@ -1,7 +1,7 @@
 # DiscounterPro
 # 20time project 1
 
-# File Purposes: 
+## File Purposes: 
 
 ### Build:
 	The File that, along with the src, contains all of the files that from my project. Contains:  
@@ -9,7 +9,7 @@
 ##### category.html
 	A file that I did not use/modify in my project, yet that I think could have some cool applications that I could add onto later so I decided to keep it.
 
-	#### images
+##### images
 	Contains the images and logos used in the website
 	#### index.html
 		The primary page which is loaded when the website is opened. This contains my javascript code and pretty much all of the html
