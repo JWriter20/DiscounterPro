@@ -1,33 +1,33 @@
 # DiscounterPro
 # 20time project 1
 
-## File Purposes: 
+# File Purposes: 
 
 ### Build:
-	The File that, along with the src, contains all of the files that from my project.  
-	#### category.html
+	The File that, along with the src, contains all of the files that from my project. Contains:  
+	
+##### category.html
 	A file that I did not use/modify in my project, yet that I think could have some cool applications that I could add onto later so I decided to keep it.
+
 	#### images
 	Contains the images and logos used in the website
 	#### index.html
 		The primary page which is loaded when the website is opened. This contains my javascript code and pretty much all of the html
-#### js
+##### js
 	Javascript folder which contains the javascript used by the template 
-#### plugins
+##### plugins
 	plugin folder used in the template, I havent touched this folder
-#### product.html
+##### product.html
 	Another file I thought has potential, it is the screen that opens when you click on the product, I could either have the link go directly to the amazon page or go to this product.html section.
-#### styles
+##### styles
 	Contains all of the CSS styling 
-#### Webscraping 
+##### Webscraping 
 	My folder containing all of the java code and the JSON file that is read in by the javascipt 
-##### dataOnitems.json
+###### dataOnitems.json
 	JSON file that all of the data on the items is stored in. 
-##### src
+###### src
 	contains all of the java files from when I was testing out possible methods of webscaping. The only one I use currently is the TakeInSearchedInfo.java file which is the one that actually uses jsoup to webscrape and take in/write the data to the JSON file. 
-##### out
-	output folder
-##### lib
+###### lib
 	Contains the jsoup library
 
 
