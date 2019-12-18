@@ -41,6 +41,13 @@ for(var i = 0; i<formElems.elements.length; i++){
 </script>
 
 </script>
+<script type="text/javascript">
+	function printTyped(){
+	var x = document.getElementById("menu_search_form").value;
+  	document.getElementById("Interests_form").innerHTML = x;
+  	console.log(x);
+}
+</script>
 <title>DiscounterPro - For all of your money saving needs</title>
 <!-- End of my added code -->
 <meta charset="utf-8">
@@ -60,11 +67,23 @@ for(var i = 0; i<formElems.elements.length; i++){
 <!-- Menu -->
 
 <div class="menu">
-
+<!-- Start of my added code, not currently used -->
+<script type="text/javascript">
+var input = document.getElementById("menu_search_form");
+if(input){
+input.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+   event.preventDefault();
+   document.getElementsByClassName("header_search_button").click();
+  }
+}
+);
+</script>
+<!-- End of my added code -->
 	<!-- Search -->
 		<div class="header_search">
 				<form action="#" id="menu_search_form">
-					<input type="text" class="search_input" placeholder="Search Item" required="required">
+					<input type="text" class="search_input" placeholder="Search Item" value="" required="required">
 					<button class="header_search_button" onchange="printSearched()"><img src="images/search2.png" alt=""></button>
 				</form>
 			</div>
@@ -136,7 +155,7 @@ for(var i = 0; i<formElems.elements.length; i++){
 				<div class="header_search">
 					<form action="#" id="header_search_form">
 						<input type="text" class="search_input" placeholder="Search Item" required="required">
-						<button class="header_search_button"><img src="images/search.png" alt=""></button>
+						<button class="header_search_button" onchange="printTyped()"><img src="images/search.png" alt=""></button>
 					</form>
 				</div>
 				<!-- User -->

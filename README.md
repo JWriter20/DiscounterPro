@@ -5,12 +5,12 @@
 
 ### Build:
 	The File that, along with the src, contains all of the files that from my project.  
-#### category.html
+	#### category.html
 	A file that I did not use/modify in my project, yet that I think could have some cool applications that I could add onto later so I decided to keep it.
-#### images
+	#### images
 	Contains the images and logos used in the website
-#### index.html
-	The primary page which is loaded when the website is opened. This contains my javascript code and pretty much all of the HTML
+	#### index.html
+		The primary page which is loaded when the website is opened. This contains my javascript code and pretty much all of the html
 #### js
 	Javascript folder which contains the javascript used by the template 
 #### plugins
@@ -32,7 +32,7 @@
 
 
 ### src:
-	All of the same methods as the Build folder 
+	All of the same methods as the Build folder (I would remove this but last time I did I spent an hour fixing all the damage it caused)
 
 ### config.codekit3
 	config folder for codekit and the server its running 
