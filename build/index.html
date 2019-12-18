@@ -20,7 +20,6 @@ for(var i = 0; i<formElems.elements.length; i++){
 	var elem = formElems.elements[i];
 		if(elem.checked){
 			var x = '<b id="' + elem.value + '" style="color:black"><li><input type="checkbox" name="Interests" value=\"' + elem.value + '\"checked>' + elem.value + '</li></b>';
-
 			if(!wasCheckedList[i]['wasChecked']){
 			document.getElementById("Interests_form").
 				innerHTML += x;
@@ -176,19 +175,12 @@ for(var i = 0; i<formElems.elements.length; i++){
 							var currElem = document.createElement('div');
 							x.innerHTML +=
 							 "<div class=\"col-xl-4 col-md-6\"><div class=\"product\"><div class=\"product_image\"><img src=\"" + picture + " \" alt=\"\"></div><div class=\"product_content\"><div class=\"product_info d-flex flex-row align-items-start justify-content-start><div><div><div class=\""+ title + "\"><a href=\"product.html\">" + title + "</a></div><div class=\"product_category\">In <a href=\"category.html\">Category</a></div></div></div><div class=\"ml-auto text-right\"><div class=\"rating_r rating_r_" + Math.round(review.substring(0, review.indexOf(".")+2)) +" home_item_rating\"><i></i><i></i><i></i><i></i><i></i></div><div class=\"product_price text-right\">"+ currPrice.substring(0, currPrice.indexOf(".")) +"<span>" + currPrice.substring(currPrice.indexOf(".")+1) + "</span></div></div></div><div class=\"product_buttons\"><div class=\"text-right d-flex flex-row align-items-start justify-content-start\"><div class=\"product_button product_fav text-center d-flex flex-column align-items-center justify-content-center\"><div><div><span><img src=\"images/cart.svg\"</span><div>+</div></div></div></div><div class=\"product_button product_cart text-center d-flex flex-column align-items-center justify-content-center\"><div><div><img src=\"images/cart.svg\" class=\"svg\" alt=\"\"><div>+</div></div></div></div></div></div></div></div></div>"
-
 						}
-
-
-
-
-
 						
 					});
 			}
 			
 			getJSONInfo();
-
 		</script>
 
 		<!-- End of my added code -->

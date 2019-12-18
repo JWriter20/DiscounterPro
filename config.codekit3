@@ -80,7 +80,7 @@
 		"oAP": "/build/images/box_1.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/box_1_img.jpg": {
@@ -91,7 +91,7 @@
 		"oAP": "/build/images/box_1_img.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/box_2.jpg": {
@@ -102,7 +102,7 @@
 		"oAP": "/build/images/box_2.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/box_2_img.jpg": {
@@ -113,7 +113,7 @@
 		"oAP": "/build/images/box_2_img.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/box_3.jpg": {
@@ -124,7 +124,7 @@
 		"oAP": "/build/images/box_3.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/box_3_img.jpg": {
@@ -135,7 +135,7 @@
 		"oAP": "/build/images/box_3_img.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/boxes_1.png": {
@@ -145,7 +145,7 @@
 		"oAP": "/build/images/boxes_1.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -156,7 +156,7 @@
 		"oAP": "/build/images/boxes_2.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -166,7 +166,7 @@
 		"oA": 0,
 		"oAP": "/build/images/cart.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -176,7 +176,7 @@
 		"oA": 0,
 		"oAP": "/build/images/cart_2.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -196,7 +196,7 @@
 		"oAP": "/build/images/cart_item_1.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/down.png": {
@@ -206,7 +206,7 @@
 		"oAP": "/build/images/down.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -216,7 +216,7 @@
 		"oA": 0,
 		"oAP": "/build/images/heart.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -226,7 +226,7 @@
 		"oA": 0,
 		"oAP": "/build/images/heart_2.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -238,7 +238,7 @@
 		"oAP": "/build/images/home.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/home_1.jpg": {
@@ -249,7 +249,7 @@
 		"oAP": "/build/images/home_1.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/home_2.jpg": {
@@ -260,7 +260,7 @@
 		"oAP": "/build/images/home_2.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/home_3.jpg": {
@@ -271,7 +271,7 @@
 		"oAP": "/build/images/home_3.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/icon_1.svg": {
@@ -280,7 +280,7 @@
 		"oA": 0,
 		"oAP": "/build/images/icon_1.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -290,7 +290,7 @@
 		"oA": 0,
 		"oAP": "/build/images/icon_2.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -300,7 +300,7 @@
 		"oA": 0,
 		"oAP": "/build/images/icon_3.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -311,7 +311,7 @@
 		"oAP": "/build/images/logo_1.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -322,7 +322,7 @@
 		"oAP": "/build/images/logo_2.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -333,7 +333,7 @@
 		"oAP": "/build/images/newlogo_1.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -343,7 +343,7 @@
 		"oA": 0,
 		"oAP": "/build/images/phone.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -355,7 +355,7 @@
 		"oAP": "/build/images/product_1.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_2.jpg": {
@@ -366,7 +366,7 @@
 		"oAP": "/build/images/product_2.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_3.jpg": {
@@ -377,7 +377,7 @@
 		"oAP": "/build/images/product_3.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_4.jpg": {
@@ -388,7 +388,7 @@
 		"oAP": "/build/images/product_4.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_5.jpg": {
@@ -399,7 +399,7 @@
 		"oAP": "/build/images/product_5.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_6.jpg": {
@@ -410,7 +410,7 @@
 		"oAP": "/build/images/product_6.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_7.jpg": {
@@ -421,7 +421,7 @@
 		"oAP": "/build/images/product_7.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_8.jpg": {
@@ -432,7 +432,7 @@
 		"oAP": "/build/images/product_8.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_9.jpg": {
@@ -443,7 +443,7 @@
 		"oAP": "/build/images/product_9.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/product_image_1.jpg": {
@@ -454,7 +454,7 @@
 		"oAP": "/build/images/product_image_1.jpg",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/images/search.png": {
@@ -464,7 +464,7 @@
 		"oAP": "/build/images/search.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -485,7 +485,7 @@
 		"oA": 0,
 		"oAP": "/build/images/user.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -496,7 +496,7 @@
 		"oAP": "/build/images/view_1.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -507,7 +507,7 @@
 		"oAP": "/build/images/view_2.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -518,7 +518,7 @@
 		"oAP": "/build/images/view_3.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -689,7 +689,7 @@
 		"oA": 0,
 		"oAP": "/build/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
 		"oF": 1,
-		"opt": 0,
+		"opt": 1,
 		"plM": 52780316221407,
 		"prP": 0
 		},
@@ -1211,7 +1211,7 @@
 		"oA": 0,
 		"oAP": "/build/plugins/OwlCarousel2-2.2.1/ajax-loader.gif",
 		"oF": 1,
-		"opt": 0
+		"opt": 1
 		},
 	"/src/plugins/OwlCarousel2-2.2.1/animate.css": {
 		"aP": 1,
@@ -1261,7 +1261,7 @@
 		"oAP": "/build/plugins/OwlCarousel2-2.2.1/owl.video.play.png",
 		"oF": 1,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1490,14 +1490,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/WebScraping/out/production/WebScraping/MorePractice.class",
-		"oF": 0
-		},
-	"/src/WebScraping/out/production/WebScraping/TakeInSearchedInfo.class": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/WebScraping/out/production/WebScraping/TakeInSearchedInfo.class",
 		"oF": 0
 		},
 	"/src/WebScraping/out/production/WebScraping/TypeSearchIntoAmazon.class": {

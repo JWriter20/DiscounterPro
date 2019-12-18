@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3aaa319b-2cdb-435d-98b6-3893268e8743" name="Default Changelist" comment="" />
+    <list default="true" id="3aaa319b-2cdb-435d-98b6-3893268e8743" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_1_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_1_img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_2_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_2_img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/box_3_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/box_3_img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/boxes_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/boxes_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/boxes_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/boxes_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/cart_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/cart_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/cart_item_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/cart_item_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/heart_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/heart_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/home_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/home_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/home_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/home_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/home_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/home_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/icon_1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/icon_1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/icon_2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/icon_2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/icon_3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/icon_3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/logo_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/logo_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/logo_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/logo_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/newlogo_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/newlogo_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/product_image_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/product_image_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/search2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/search2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/user.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/user.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/view_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/view_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/view_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/view_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/images/view_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/images/view_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/plugins/OwlCarousel2-2.2.1/owl.video.play.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/plugins/OwlCarousel2-2.2.1/owl.video.play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../build/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config.codekit3" beforeDir="false" afterPath="$PROJECT_DIR$/../../config.codekit3" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,18 +132,19 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="821" />
+          <entry key="java" value="911" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="821" />
+          <entry key="JAVA" value="911" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,8 +166,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="322">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,9 +227,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,6 +238,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="WebScraping" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="WebScraping" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,26 +267,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="WebScraping" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="WebScraping" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576461713023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576630742481" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -309,7 +358,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="730" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="1" />
@@ -317,7 +367,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26655897" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.27059773" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23835616" />
@@ -389,20 +439,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataOnItems.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6405">
           <caret line="427" column="21" selection-start-line="427" selection-start-column="21" selection-end-line="427" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TakeInSearchedInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
