@@ -1,5 +1,5 @@
 # DiscounterPro
-# 20time project 1
+# A website that finds and creates a feed of products related to the user's interests which are currently discounted on amazon.com. 
 
 ## File Purposes: 
 
